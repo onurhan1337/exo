@@ -18,15 +18,18 @@ Exo is a simple e-commerce application written by Flutter. While creating this a
 
 ## Video
 
-<img src="https://github.com/onurhan1337/exo/blob/master/assets/record_1.gif" width="470" />
+<img src="https://github.com/onurhan1337/exo/blob/master/assets/record_1.gif" width="200" />
 
 ## Screenshoots
 
 Screenshots from application
-<img width="470" alt="Ekran Resmi 2023-09-27 23 20 20" src="https://github.com/onurhan1337/exo/blob/master/assets/tab_1.png">
-<img width="470" alt="Ekran Resmi 2023-09-27 23 25 20" src="https://github.com/onurhan1337/exo/blob/master/assets/tab_2.png">
-<img width="470" alt="Ekran Resmi 2023-09-27 23 30 20" src="https://github.com/onurhan1337/exo/blob/master/assets/tab_2_search.png">
-<img width="470" alt="Ekran Resmi 2023-09-27 23 35 20" src="https://github.com/onurhan1337/exo/blob/master/assets/tab_3.png">
+
+<div>
+<img width="225" alt="Ekran Resmi 2023-09-27 23 20 20" src="https://github.com/onurhan1337/exo/blob/master/assets/tab_1.png" />
+<img width="225" alt="Ekran Resmi 2023-09-27 23 25 20" src="https://github.com/onurhan1337/exo/blob/master/assets/tab_2.png" />
+<img width="225" alt="Ekran Resmi 2023-09-27 23 30 20" src="https://github.com/onurhan1337/exo/blob/master/assets/tab_2_search.png" />
+<img width="225" alt="Ekran Resmi 2023-09-27 23 35 20" src="https://github.com/onurhan1337/exo/blob/master/assets/tab_3.png" />
+</div>
 
 This project is a starting point for a Flutter application.
 

@@ -58,6 +58,10 @@ class AppStateModel extends foundation.ChangeNotifier {
     return subtotalCost * _salesTaxRate;
   }
 
+  double get totalCost {
+    return subtotalCost + shippingCost + tax;
+  }
+
   // Get the all the products, or just those for the currently selected category.
   List<Product> getProducts() => switch (_selectedCategory) {
         Category.all => List.from(_availableProducts),

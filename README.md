@@ -18,7 +18,7 @@ Exo is a simple e-commerce application written by Flutter. While creating this a
 
 ## Video
 
-https://github.com/onurhan1337/exo/blob/master/assets/record_1.gif
+<img src="https://github.com/onurhan1337/exo/blob/master/assets/record_1.gif" width="470" />
 
 ## Screenshoots
 

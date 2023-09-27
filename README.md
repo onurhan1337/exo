@@ -1,8 +1,32 @@
 # exo
 
-A new Flutter project.
+Exo is a simple e-commerce application written by Flutter. While creating this application, I followed the steps of the Google Developers Codelabs sample project.
 
-## Getting Started
+## Todos
+
+- [ ] Add product detail page
+- [ ] Improve checkout page design
+- [ ] Change Product data with API data
+- [ ] Add to delete function of product from the cart
+- [ ] Use bloc instead of provider package for state management
+- [ X ] ~~Add customer info~~
+- [ X ] ~~Add product search~~
+- [ X ] ~~Add state management~~
+- [ X ] ~~Bottom navigation tab~~
+- [ X ] ~~List products for sale~~
+- [ X ] ~~Add date picker to cart~~
+
+## Video
+
+https://github.com/onurhan1337/exo/blob/master/assets/record_1.gif
+
+## Screenshoots
+
+Screenshots from application
+<img width="470" alt="Ekran Resmi 2023-09-27 23 20 20" src="https://github.com/onurhan1337/exo/blob/master/assets/tab_1.png">
+<img width="470" alt="Ekran Resmi 2023-09-27 23 25 20" src="https://github.com/onurhan1337/exo/blob/master/assets/tab_2.png">
+<img width="470" alt="Ekran Resmi 2023-09-27 23 30 20" src="https://github.com/onurhan1337/exo/blob/master/assets/tab_2_search.png">
+<img width="470" alt="Ekran Resmi 2023-09-27 23 35 20" src="https://github.com/onurhan1337/exo/blob/master/assets/tab_3.png">
 
 This project is a starting point for a Flutter application.
 
